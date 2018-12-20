@@ -19,7 +19,6 @@ export default class App extends React.Component {
       <Provider store={store}>
         <Timer></Timer>
         </Provider>
-      
     );
   }
 }
